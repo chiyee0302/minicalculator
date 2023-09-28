@@ -1,0 +1,2 @@
+# minicalculator
+software project homework
